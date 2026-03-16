@@ -38,7 +38,7 @@ export function Navbar() {
           <Link href="/" className="flex items-center gap-2.5 group">
             <div className="w-8 h-8 rounded-lg bg-[#0F4C5C] flex items-center justify-center overflow-hidden">
               <Image
-                src="/images/logo-placeholder.png"
+                src="/images/logo.png"
                 alt="LineageAI Logo"
                 width={32}
                 height={32}
